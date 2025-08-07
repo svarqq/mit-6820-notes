@@ -6,4 +6,6 @@
 *.toc
 *.pre
 *.pdf
+*.dvi
+*.ps
 _minted*
